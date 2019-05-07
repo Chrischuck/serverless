@@ -52,6 +52,7 @@ Here are the available templates for AWS Lambda:
 
 * aws-clojurescript-gradle
 * aws-clojure-gradle
+* aws-cpp
 * aws-nodejs
 * aws-nodejs-typescript
 * aws-alexa-typescript

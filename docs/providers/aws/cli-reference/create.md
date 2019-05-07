@@ -50,6 +50,7 @@ Most commonly used templates:
 
 - aws-clojurescript-gradle
 - aws-clojure-gradle
+- aws-cpp
 - aws-nodejs
 - aws-nodejs-typescript
 - aws-alexa-typescript
